@@ -1,1 +1,3 @@
-<h1> Hola CETI: prueba fichero simplificado ... </h1>
+<link rel="stylesheet" href="css/style.css" />
+
+<h1>Jenkins Artashes</h1>
